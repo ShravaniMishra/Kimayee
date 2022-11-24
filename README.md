@@ -46,6 +46,14 @@ Created Pages
 - Functionality to add a Items in cart
 - Functionality to make a payment
 
+
+## My Responsibilty is to create
+
+- Landing Page
+- Product Page
+- Product-Detail Page
+- Community Buying Page
+
 ![Logo](https://cdn.shopify.com/s/files/1/0449/5225/6667/files/website-logo_400x.png?v=1596288204)
 <a href="https://ibb.co/XtPCFN4"><img src="https://i.ibb.co/7KD1r8z/Screenshot-234.png" alt="Screenshot-234" border="0">
 

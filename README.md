@@ -47,7 +47,7 @@ Created Pages
 - Functionality to make a payment
 
 
-## My Responsibilty is to create
+## My Responsibilty is to create - (Shravani Mishra)
 
 - Landing Page
 - Product Page

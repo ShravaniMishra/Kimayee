@@ -46,6 +46,5 @@ A collaborative project built by a team of 3 executed in 5days.
 - Functionality to make a payment
 
 ![Logo](https://cdn.shopify.com/s/files/1/0449/5225/6667/files/website-logo_400x.png?v=1596288204)
-
-![HomePage](<a href="https://ibb.co/XtPCFN4"><img src="https://i.ibb.co/7KD1r8z/Screenshot-234.png" alt="Screenshot-234" border="0">)
+(<a href="https://ibb.co/XtPCFN4"><img src="https://i.ibb.co/7KD1r8z/Screenshot-234.png" alt="Screenshot-234" border="0">)
 

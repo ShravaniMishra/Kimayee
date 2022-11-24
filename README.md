@@ -47,5 +47,5 @@ A collaborative project built by a team of 3 executed in 5days.
 
 ![Logo](https://cdn.shopify.com/s/files/1/0449/5225/6667/files/website-logo_400x.png?v=1596288204)
 
-![HomePage](<a href="https://ibb.co/hfCy8Cg"><img src="https://i.ibb.co/tX34C3H/Screenshot-248.png" alt="Screenshot-248" border="0"></a><br /><a target='_blank' href='https://statewideinventory.org/hyundai-0-60-times'>hyundai genesis coupe 2.0 0 60</a><br /><a href="https://ibb.co/XtPCFN4"><img src="https://i.ibb.co/7KD1r8z/Screenshot-234.png" alt="Screenshot-234" border="0">)
+![HomePage](<a href="https://ibb.co/XtPCFN4"><img src="https://i.ibb.co/7KD1r8z/Screenshot-234.png" alt="Screenshot-234" border="0">)
 

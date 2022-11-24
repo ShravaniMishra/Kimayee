@@ -26,7 +26,8 @@ A collaborative project built by a team of 3 executed in 5days.
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0LAimh7HEcDu0N8uhkCXiAE-BEaLTHlHG4A&usqp=CAU" alt="css3" height="150"/> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB0_ijMX_4xf0rGse2D334wtm-LcqQ_lrsFQ&usqp=CAU"  height="150"/>
 </p>
-## Created Pages
+
+Created Pages
 
 - Landing Page
 - Sign in Page

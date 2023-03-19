@@ -149,7 +149,7 @@ var data = [
   {
   
     name: "Kimaye Imported Oranges(Pack of 3 & 6)",
-    image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/a0cfceb5-76a4-4994-9d37-978c6dc3b309_360x.png?v=1611811512",
+    image: "https://insanelygoodrecipes.com/wp-content/uploads/2022/11/Fresh-Clementine-and-Blood-Oranges-1024x1024.jpg",
     price: "₹178 – ₹345",
     cart:"Add to Cart"
   },
@@ -163,14 +163,14 @@ var data = [
   {
   
     name: "Kimaye Grapefruit(Pack of 2 & 4)",
-    image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/grapefruit-cover_360x.jpg?v=1639461484",
+    image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/grapefruit-cover-sw@2x.jpg?v=1669119666",
     price: "₹145 – ₹289",
     cart:"Add to Cart"
   },
   {
   
     name: "Kimaye Dragon Fruit (1 pc)",
-    image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/dragon-fruit--white-cover_360x.jpg?v=1632470660",
+    image: "https://www.eatrightbasket.com/wp-content/uploads/2020/09/Dragon-Fruit-Red.png",
     price: "₹99",
     cart:"Add to Cart"
   },
@@ -191,14 +191,14 @@ var data = [
   {
   
     name: "Arils Festive Pack (Pack of 5 cups)",
-    image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/47dfb7d1-d8d3-4c96-bda9-7dc85dfdec51_119283b1-bac0-4798-8af7-e4259a3a4b22_360x.jpg?v=1633861455",
+    image: "https://images.jdmagicbox.com/quickquotes/images_main/fruit-box-by-kimaye-abundance-384713671-utkua.jpg",
     price: "₹260",
     cart:"Add to Cart"
   },
   {
   
     name: "Kimaye Golden Kiwis (3 pcs)",
-    image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/golden-kiwi-cover_360x.jpg?v=1625147312",
+    image: "https://www.zespri.com/content/dam/zespri/us/blog-detail/green-vs--gold-kiwifruit/green_and_gold_r1.jpeg",
     price: "₹ 149",
     cart:"Add to Cart"
   },
@@ -219,21 +219,21 @@ var data = [
   {
   
       name: "Kimaye Bananas Robusta (5-6 pcs)",
-      image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/1_3311b3de-1a38-4175-8e8c-ac9577ec85df-min_360x.jpg?v=1614324760",
+      image: "https://communityfarm.in/wp-content/uploads/2018/02/robusta.jpg",
       price: "₹ 57",
       cart:"Add to Cart"
     },
     {
   
       name: "Kimaye Pomegranates (Pack of 2 & 4)",
-      image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/221f2788-1a08-45ae-bdaf-7432d7ea0156_360x.png?v=1614326590",
+      image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Kimaye-Pomegranates-_Pack-of-2-_-4_-kimaye-store-1668426097.png?v=1668426099",
       price: "₹ 135 - ₹ 259",
       cart:"Add to Cart"
     },
     {
   
       name: "Kimaye Kiwis (3 pcs ≈ 300 g)",
-      image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Main-Fruit_34d1f5d6-4a69-43dd-b2a0-c6d7bc839c60-min.progressive.jpg?v=1614326165",
+      image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Kimaye-Kiwis-_3-pcs--300-g_-kimaye-store-1668426311@2x.jpg?v=1668426313",
       price: "₹ 127",
       cart:"Add to Cart"
     },
@@ -247,7 +247,7 @@ var data = [
     {
   
       name: "Kimaye Arils-Coco Cup (125g)",
-      image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/62cef687-de59-4f5a-acf3-4df1238c3e29-min.png?v=1614324446",
+      image: "https://kimaye.imgix.net/s/files/1/0449/5225/6667/products/62cef687-de59-4f5a-acf3-4df1238c3e29-min-sw_1080x1080.png?v=1669118878&",
       price: "₹55 - ₹140",
       cart:"Add to Cart"
     },
@@ -262,14 +262,14 @@ var data = [
   {
   
     name: "Kimaye Bananas Yelakki (Pack of 250g, 500g & 1kg )",
-    image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Yelakki-banana-cover_bc79dea2-08f8-404b-99f5-327a91213fbb_360x.jpg?v=1627026370",
+    image: "https://im.pluckk.in/unsafe/1200x0/uploads/4633-banana-yelakki.jpg",
     price: "₹ 50 – ₹ 170",
     cart:"Add to Cart"
   },
   {
   
     name: "Pomegranate Seeds (Arils Cup)125g",
-    image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/aerils-2-min.progressive.jpg?v=1614327837",
+    image: "https://static.toiimg.com/photo/98049691.cms",
     price: "₹55 - ₹140",
     cart:"Add to Cart"
 
@@ -278,14 +278,14 @@ var data = [
   {
   
     name: "Coconut Chunks Cup (100g)",
-    image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/chunks2-min.progressive.jpg?v=1614323571",
+    image: "https://kimaye.imgix.net/s/files/1/0449/5225/6667/products/Coconut-Chunks-Cup-_100g_-kimaye-store-1668426210-sw_1080x1080.png?v=1668505424&",
     price: "₹51 - ₹130",
     cart:"Add to Cart"
   },
   {
   
     name: "Grated Coconut Punnet",
-    image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/0fce7fd6-f30e-45df-8c52-234acbd62023.png?v=1611811509",
+    image: "https://kimaye.imgix.net/s/files/1/0449/5225/6667/products/Grated-Coconut-Punnet-kimaye-store-1668426228-sw_1080x1080.png?v=1669118605&",
     price: "₹ 51",
     cart:"Add to Cart"
   },
@@ -313,21 +313,21 @@ var data = [
   {
   
     name: "Fruit Box by Kimaye (Strength)",
-    image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/2I8A7793.progressive.jpg?v=1631346990",
+    image: "https://images.jdmagicbox.com/quickquotes/images_main/kimaye-wholesome-combo-378081804-vrbiu.jpg",
     price: "₹ 1500",
     cart:"Add to Cart"
   },
   {
   
     name: "Fruit Box by Kimaye (Cherish)",
-    image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/2I8A7821.progressive.jpg?v=1631350656",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQobCKLvBWSdJ1yoQ_t-x92OPsXbVooU9fjD-Q-C4V2h21bkYJB1OQ2ibXJ3suWS07zu24&usqp=CAU",
     price: "₹ 1400",
     cart:"Add to Cart"
   },
   {
   
     name: "Fruit Box by Kimaye (Adore)",
-    image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/2I8A7807_360x.jpg?v=1631347621",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe62y5fOpqOnzyTtKTIUPSalkNoZ0DeLAJ3LPwnkie_XY47rm24_LcMvVt_6Bevd0fP8c&usqp=CAU",
     price: "₹ 1900",
     cart:"Add to Cart"
   },
@@ -345,42 +345,42 @@ var data = [
     {
       
       name: "Kimaye Baby Corn (125g)",
-      image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Baby-Corn--Exoticcover_png.progressive.jpg?v=1660302234",
+      image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Baby-Corn--Exoticcover_png-sw@2x.jpg?v=1669118911",
       price: "₹ 34",
       cart:"Add to Cart"
     },
     {
       
       name: "Kimaye Broccoli" ,
-      image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/broccolicover.progressive.jpg?v=1655881491",
+      image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/broccolicover-sw@2x.jpg?v=1669119197",
       price: "₹135",
       cart:"Add to Cart"
     },
     {
       
       name: "Kimaye Capsicum(Green) 1 pc" ,
-      image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Capsicumleadimage_360x.jpg?v=1660378877",
+      image: "https://cdn.shopify.com/s/files/1/0559/0286/3559/products/capsicum-green2.jpg?v=1633953647",
       price: "₹42",
       cart:"Add to Cart"
     },
     {
       
       name: "Kimaye Capsicum(Red) (1pc)" ,
-      image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/RED-CAPSICUMcover_360x.jpg?v=1656589782",
+      image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/RED-CAPSICUMcover-sw@2x.jpg?v=1669119226",
       price: "₹74",
       cart:"Add to Cart"
     },
     {
       
       name: "Kimaye Capsicum(Yellow) (1pc)" ,
-      image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Capsicum_yellow_cover_360x.jpg?v=1656566943",
+      image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Capsicum_yellow_funfacts.png?v=1656565441",
       price: "₹75",
       cart:"Add to Cart"
     },
     {
       
       name: "Kimaye Cherry Tomato (Vine) 200g" ,
-      image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Tomatocover_360x.jpg?v=1655883305",
+      image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Tomatocover-sw@2x.jpg?v=1669119407",
       price: "₹72",
       cart:"Add to Cart"
     },
@@ -440,35 +440,35 @@ var data = [
     {
       
       name: "Pomegranate Seeds (Arils Cup)125g" ,
-      image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/47dfb7d1-d8d3-4c96-bda9-7dc85dfdec51_360x.png?v=1613364164",
+      image: "https://www.nrtcfresh.com/media/catalog/product/cache/91626a98f6dcab0a885a0141eda2eb62/K/i/Kimaye20Pomegranate20Arils20Cup20Mirakpng.png",
       price: "₹55 - ₹140",
       cart:"Add to Cart"
     },
     {
       
       name: "Coconut Chunks Cup (100g)" ,
-      image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/24d0f9c9-fe83-40a3-84ab-300e73e4ff8d_360x.png?v=1611811511",
+      image: "https://kimaye.imgix.net/s/files/1/0449/5225/6667/products/Coconut-Chunks-Cup-_100g_-kimaye-store-1668426210-sw_1080x1080.png?v=1668505424&",
       price: "₹51 - ₹130",
       cart:"Add to Cart"
     },
     {
       
       name: "Grated Coconut Punnet" ,
-      image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/0fce7fd6-f30e-45df-8c52-234acbd62023_360x.png?v=1611811509",
+      image: "https://kimaye.imgix.net/s/files/1/0449/5225/6667/products/Grated-Coconut-Punnet-kimaye-store-1668426228-sw_1080x1080.png?v=1669118605&",
       price: "₹51",
       cart:"Add to Cart"
     },
     {
       
       name: "Kimaye Arils-Coco Cup (125g)" ,
-      image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/62cef687-de59-4f5a-acf3-4df1238c3e29-min_360x.png?v=1614324446",
+      image: "https://kimaye.imgix.net/s/files/1/0449/5225/6667/products/62cef687-de59-4f5a-acf3-4df1238c3e29-min-sw_1080x1080.png?v=1669118878&",
       price: "₹55 - ₹140",
       cart:"Add to Cart"
     },
     {
       
       name: "Arils Festive Pack (Pack of 5 cups)" ,
-      image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/47dfb7d1-d8d3-4c96-bda9-7dc85dfdec51_119283b1-bac0-4798-8af7-e4259a3a4b22_360x.jpg?v=1633861455",
+      image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Pomegranate-Seeds-_Arils-Cup_125g-Kimaye-1668426207@2x.jpg?v=1668426208",
       price: "₹260",
       cart:"Add to Cart"
     }
@@ -504,21 +504,21 @@ let combos = [
 let pack = [
   {
     name : "Fruit Box by Kimaye (Adore)",
-    image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/2I8A7812_360x.jpg?v=1661146423",
+    image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/2I8A7821-sw@2x.jpg?v=1668505930",
     price: "₹1900",
     cart: "Add to Cart"
 
   },
   {
     name : "Fruit Box by Kimaye (Strength)",
-    image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/2I8A7790_360x.jpg?v=1631346990",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrQFdNSdoTAtFuMS3ShyEfhsUxt1emE1E1EFyjQy1jgMvxvLA7-xvZ6mXrTe0cCVLFKvE&usqp=CAU",
     price: "₹1500",
     cart: "Add to Cart"
 
   },
   {
     name : "Fruit Box by Kimaye (Cherish)",
-    image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/2I8A7821_360x.jpg?v=1631350656",
+    image: "https://kimaye.imgix.net/s/files/1/0449/5225/6667/products/Strengthnew-sw_1080x1080.jpg?v=1668506055&",
     price: "₹1400",
     cart: "Add to Cart"
 

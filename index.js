@@ -145,7 +145,7 @@ var image1 = ["https://cdn.shopify.com/s/files/1/0449/5225/6667/articles/AdobeSt
     "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/Untitled_design_51-min.png?v=1614342058",
 ];
 
-var image2 = ["https://cdn.shopify.com/s/files/1/0449/5225/6667/articles/Blog_-_Benefits_of_fruits_720x.jpg?v=1625147388",
+var image2 = ["https://cdn.shopify.com/s/files/1/0449/5225/6667/articles/1d9b40053476b8872378bf56b7cc2fb5_50x50.jpg?v=1668505354",
     "https://cdn.shopify.com/s/files/1/0449/5225/6667/files/immune_system_1728x-min.jpg?v=1614342138",
 ];
 

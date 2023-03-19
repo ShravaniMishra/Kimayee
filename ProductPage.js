@@ -54,7 +54,7 @@ var data = [
   {
     
     name: "Kimaye Cherries(USA Northwest)(Pack of 125gm)",
-    image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/cherry-imported_540x.jpg?v=1626511016",
+    image: "https://images.indianexpress.com/2022/07/cherries_759_thinkstockphotos-462295895-1.jpg",
     price: "₹ 369",
     cart:"Add to Cart"
    
@@ -63,14 +63,14 @@ var data = [
   {
     
     name: "Kimaye Custard Apple (Pack of 500 gm & 1 kg)" ,
-    image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Custard-Apple-A_360x.jpg?v=1632485463",
+    image: "https://cdn.britannica.com/95/126995-050-101B8B8D/Sweetsop.jpg",
     price: "₹ 133 – ₹ 266",
     cart:"Add to Cart"
   },
   {
     
     name: "Kimaye Dragon Fruit (Red) (1pc)",
-    image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/reddragonfruit_18fa2ad7-5134-4318-917b-7fff3a835875_360x.jpg?v=1644990909",
+    image: "https://kumaribasket.com/wp-content/uploads/2021/02/Dragon-Fruit-1200x1308.jpg",
     price: "₹105",
     cart:"Add to Cart"
   },
@@ -85,21 +85,21 @@ var data = [
   {
   
     name: "Kimaye Indian Plum (250 g)",
-    image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Indian-Plum_360x.jpg?v=1627642547",
+    image: "https://www.jiomart.com/images/product/original/590003511/plum-indian-8-pcs-pack-approx-350-g-400-g-product-images-o590003511-p590318013-0-202203170215.jpg",
     price: "₹71",
     cart:"Add to Cart"
   },
   {
   
     name: "Kimaye Blueberries (125 g)",
-    image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/5e8b2ee6-ce8e-42e9-959f-d43c544f586a_360x.png?v=1616326949",
+    image: "https://hips.hearstapps.com/hmg-prod/images/blueberries-1527711083.jpg?crop=0.667xw:1.00xh;0.202xw,0&resize=1200:*",
     price: "₹ 285",
     cart:"Add to Cart"
   },
   {
   
     name: "Kimaye Avocado (Imported) (1 pc)",
-    image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Avocado_360x.jpg?v=1652191066",
+    image: "https://5.imimg.com/data5/SELLER/Default/2022/4/QF/TN/CB/40411695/avocado-fruits-1000x1000.jpg",
     price: "₹ 155",
     cart:"Add to Cart"
   },
@@ -134,7 +134,7 @@ var data = [
   {
   
     name: "Kimaye Green Apples (Pack of 3 pc & 6 pc)",
-    image: "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/cover_360x.jpg?v=1647932788",
+    image: "https://thumbs.dreamstime.com/b/green-apple-leaf-slice-isolated-white-ripe-background-clipping-path-45471482.jpg",
     price: "₹ 183 – ₹ 366",
     cart:"Add to Cart"
   },
